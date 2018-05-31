@@ -11,7 +11,7 @@
 .logo{
 	display: inline-block;
     margin-top: 50px;
-    margin-left: 175px;
+    margin-left: 10%;
 }
 img{
 	width: 145px;
@@ -123,13 +123,12 @@ img{
 }
 .sec-1 p{
 	text-align: center;
-	width: 1155px;
-  	padding: 0px 57px ;
+	width: 100%;
   	font-size: 15px;
 }
 .sec-1 img{
 	width: 366px;
-	margin-left: 470px
+	margin-left: 40%;
 
 }
 .sec-2 {
@@ -141,8 +140,7 @@ img{
 }
 .sec-2 p{
 	text-align: center;
-	width: 1155px;
-  	padding: 0px 57px ;
+	width: 100%;
   	font-size: 15px;
 }
 
@@ -162,7 +160,7 @@ img{
 .contacto{
 	display: inline-block;
 	width: 25%;
-	margin-left: 330px;
+	margin-left: 25%;
 	margin-top: 30px;
 
 }
@@ -182,7 +180,7 @@ img{
 }
 .footer p{
 	margin-top: 20px;
-    margin-left: 100px;
+    margin-left: 15%;
     position: absolute;
     font-family: arial;
     color: white;
