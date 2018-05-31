@@ -1,0 +1,190 @@
+
+
+/*---Eestilos del Head---*/
+
+
+.head{
+	width: 100%;
+	height: 430px;
+	background-image: url("images/bg.jpeg");
+}
+.logo{
+	display: inline-block;
+    margin-top: 50px;
+    margin-left: 175px;
+}
+img{
+	width: 145px;
+
+}
+.nav{
+	display: inline-block;
+	float: right;
+	margin-right: 195px;
+	margin-top: 40px;
+	font-family: arial;
+}
+.nav ul li{
+	display: inline-block;
+	padding-left: 20px; 
+}
+.nav ul li a{
+	text-decoration: none;
+	color: gray;
+	
+}
+.nav ul li a:hover {
+	color: white;
+}
+.mensaje{
+	color: white;
+	width: 40%;
+	margin-left: 30%;
+	margin-top: 50px;
+	margin-bottom: 45px;
+}
+.mensaje h1{
+	text-align: center;
+	font-family: arial; 
+	font-weight:normal;
+	
+}
+.botones{
+	text-align: center;
+	margin: 25px 5px;
+}
+.comienza{
+	text-decoration: none;
+	padding: 10px;
+	font-size: 15px;
+	color: #fff;
+	background-color: #1883ba;
+	border-radius: 6px;
+	font-family: arial;
+	margin: 5px;
+}
+.info{
+	text-decoration: none;
+	padding: 10px;
+	font-size: 15px;
+	color: #fff;
+	background-color: #58FA58;
+	border-radius: 6px;
+	font-family: arial;
+	margin: 5px	
+}
+.comienza:hover{
+	border:3px solid #1883ba;
+}
+.info:hover{
+	border:3px solid #58FA58;
+}
+.sub-mensaje{
+	color: white;
+	width: 55%;
+	margin-left: 24%;
+	text-align: center;
+	font-size: 15px;
+	font-family: arial;
+	margin-top: 25px;
+}
+
+
+/*---Estilos del content---*/
+
+
+.content{
+	width: 100%;
+	
+}
+.sec-1{
+	width: 100%;
+	height: 430px;
+	border-bottom: 1px solid gray;
+}
+.sec-2{
+	width: 100%;
+	height: 220px;
+	border-bottom: 1px solid gray;
+}
+.sec-3{
+
+	width: 100%;
+	height: 220px;
+	border-bottom: 1px solid gray;
+}
+.sec-1 {
+	font-family: arial;
+
+}
+.sec-1 h1{
+	text-align: center;
+	margin-top: 100px;
+}
+.sec-1 p{
+	text-align: center;
+	width: 1155px;
+  	padding: 0px 57px ;
+  	font-size: 15px;
+}
+.sec-1 img{
+	width: 366px;
+	margin-left: 470px
+
+}
+.sec-2 {
+	font-family: arial;
+	}
+.sec-2 h1{
+	text-align: center;
+	margin-top: 70px;
+}
+.sec-2 p{
+	text-align: center;
+	width: 1155px;
+  	padding: 0px 57px ;
+  	font-size: 15px;
+}
+
+.inscibete {
+	text-decoration: none;
+	padding: 10px;
+	font-size: 15px;
+	color: #fff;
+	background-color: #1883ba;
+	border-radius: 6px;
+	font-family: arial;
+	
+}
+.sec-3{
+	font-family: arial;
+}
+.contacto{
+	display: inline-block;
+	width: 25%;
+	margin-left: 330px;
+	margin-top: 30px;
+
+}
+.suscribete{
+	display: inline-block;
+	width: 35%;
+}
+
+/*---Estilos del content---*/
+
+
+.footer{
+	width: 100%;
+	height: 50px;
+	background-color: gray;
+
+}
+.footer p{
+	margin-top: 20px;
+    margin-left: 100px;
+    position: absolute;
+    font-family: arial;
+    color: white;
+    /*margin-bottom: 10px;
+}
